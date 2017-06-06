@@ -1,0 +1,206 @@
+\hypertarget{class_t_d_j___gliese_1_1_ship}{}\section{T\+D\+J\+\_\+\+Gliese.\+Ship Class Reference}
+\label{class_t_d_j___gliese_1_1_ship}\index{T\+D\+J\+\_\+\+Gliese.\+Ship@{T\+D\+J\+\_\+\+Gliese.\+Ship}}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_t_d_j___gliese_1_1_ship_ac6484a415970f8daa937d940aef48a57}{Ship} (int Tier, int Width, int Height)
+\item 
+void \hyperlink{class_t_d_j___gliese_1_1_ship_a19964ca50d3961a08f414d8deca7291c}{Load\+\_\+content\+\_\+\+Ship} (Content\+Manager Content)
+\item 
+void \hyperlink{class_t_d_j___gliese_1_1_ship_a363f5776505f9baf33ae8651547f6ff8}{Update\+\_\+\+Tier} ()
+\item 
+void \hyperlink{class_t_d_j___gliese_1_1_ship_a30aa20d3d1fbb797eedb19deffd5da72}{Update\+\_\+\+Ship} (Game\+Time Gametime)
+\item 
+void \hyperlink{class_t_d_j___gliese_1_1_ship_ade17691846d292b3e780c5667a9cc5ee}{Is\+\_\+ship\+\_\+\+Coliding} (List$<$ \hyperlink{class_t_d_j___gliese_1_1_enemy_ship}{Enemy\+Ship} $>$ Enemylist)
+\item 
+void \hyperlink{class_t_d_j___gliese_1_1_ship_aa2cb84ed2f07f47eadc04e86a0fb77c1}{Draw\+\_\+\+Ship} (Sprite\+Batch spritebatch, Sprite\+Font Font)
+\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+Rectangle \hyperlink{class_t_d_j___gliese_1_1_ship_ac94ff68060753b5a57183a414e10198c}{Ship\+\_\+\+Colision\+Box}
+\item 
+bool \hyperlink{class_t_d_j___gliese_1_1_ship_ab04d95577b2e9d59038beb15d4c44517}{Ship\+\_\+\+Is\+\_\+\+Destructed}
+\item 
+bool \hyperlink{class_t_d_j___gliese_1_1_ship_a6fd70556744e25e1743cc27f566018cd}{isbeinghit}
+\item 
+int \hyperlink{class_t_d_j___gliese_1_1_ship_a944a147b9a2e0391499617014f1a79a9}{Kind\+\_\+\+Of\+\_\+\+Power\+\_\+\+Up}
+\item 
+int \hyperlink{class_t_d_j___gliese_1_1_ship_a5a045b903027b805f2bf6893cce33784}{Avaliable\+Points}
+\item 
+int \hyperlink{class_t_d_j___gliese_1_1_ship_aed7ff40de6c54938a7589595379b1195}{Ship\+\_\+\+Speed\+\_\+\+P\+TS}
+\item 
+int \hyperlink{class_t_d_j___gliese_1_1_ship_a12a03cfeace42db0d257ce4f75c456f6}{Ship\+\_\+\+Endurance\+\_\+\+P\+TS}
+\item 
+int \hyperlink{class_t_d_j___gliese_1_1_ship_a145313c1949b730fc835fd7325b375d9}{Ship\+\_\+\+Total\+\_\+\+H\+P\+\_\+\+P\+TS}
+\item 
+int \hyperlink{class_t_d_j___gliese_1_1_ship_abb4db4b5321a9cf19f9dbedc92a34113}{Ship\+\_\+\+Shooting\+\_\+\+Speed\+\_\+\+P\+TS}
+\item 
+int \hyperlink{class_t_d_j___gliese_1_1_ship_adc2a27973f237ed489ce8002b87055f4}{Projectile\+\_\+\+Damage\+\_\+\+P\+TS}
+\item 
+int \hyperlink{class_t_d_j___gliese_1_1_ship_a3c547516f746218184f5752bb2126ac5}{Ship\+\_\+\+Tier}
+\item 
+int \hyperlink{class_t_d_j___gliese_1_1_ship_a4dfc99b5768e2c500e2f530ce65c3a65}{Ship\+\_\+\+Speed}
+\item 
+int \hyperlink{class_t_d_j___gliese_1_1_ship_a714c6a21bfad19da1f4f8ab388b0793c}{Projectile\+\_\+\+Delay}
+\item 
+Texture2D \hyperlink{class_t_d_j___gliese_1_1_ship_a7c579568b281500132258c25b8dc41f6}{Projectile\+\_\+\+Image}
+\item 
+List$<$ \hyperlink{class_t_d_j___gliese_1_1_projectile}{Projectile} $>$ \hyperlink{class_t_d_j___gliese_1_1_ship_aa4dd7af04e2eba843ee65a5890a6f683}{Projectiles\+\_\+\+List}
+\item 
+int \hyperlink{class_t_d_j___gliese_1_1_ship_a9b8a46c11a735285804f87466ca1641c}{score}
+\item 
+List$<$ \hyperlink{class_t_d_j___gliese_1_1_content_1_1_boom}{Boom} $>$ \hyperlink{class_t_d_j___gliese_1_1_ship_a88182145d60126a7a22abfe10232b25d}{Explosions\+List}
+\end{DoxyCompactItemize}
+
+
+\subsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_ac6484a415970f8daa937d940aef48a57}\label{class_t_d_j___gliese_1_1_ship_ac6484a415970f8daa937d940aef48a57}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Ship@{Ship}}
+\index{Ship@{Ship}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Ship()}{Ship()}}
+{\footnotesize\ttfamily T\+D\+J\+\_\+\+Gliese.\+Ship.\+Ship (\begin{DoxyParamCaption}\item[{int}]{Tier,  }\item[{int}]{Width,  }\item[{int}]{Height }\end{DoxyParamCaption})}
+
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_aa2cb84ed2f07f47eadc04e86a0fb77c1}\label{class_t_d_j___gliese_1_1_ship_aa2cb84ed2f07f47eadc04e86a0fb77c1}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Draw\+\_\+\+Ship@{Draw\+\_\+\+Ship}}
+\index{Draw\+\_\+\+Ship@{Draw\+\_\+\+Ship}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Draw\+\_\+\+Ship()}{Draw\_Ship()}}
+{\footnotesize\ttfamily void T\+D\+J\+\_\+\+Gliese.\+Ship.\+Draw\+\_\+\+Ship (\begin{DoxyParamCaption}\item[{Sprite\+Batch}]{spritebatch,  }\item[{Sprite\+Font}]{Font }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_ade17691846d292b3e780c5667a9cc5ee}\label{class_t_d_j___gliese_1_1_ship_ade17691846d292b3e780c5667a9cc5ee}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Is\+\_\+ship\+\_\+\+Coliding@{Is\+\_\+ship\+\_\+\+Coliding}}
+\index{Is\+\_\+ship\+\_\+\+Coliding@{Is\+\_\+ship\+\_\+\+Coliding}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Is\+\_\+ship\+\_\+\+Coliding()}{Is\_ship\_Coliding()}}
+{\footnotesize\ttfamily void T\+D\+J\+\_\+\+Gliese.\+Ship.\+Is\+\_\+ship\+\_\+\+Coliding (\begin{DoxyParamCaption}\item[{List$<$ \hyperlink{class_t_d_j___gliese_1_1_enemy_ship}{Enemy\+Ship} $>$}]{Enemylist }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_a19964ca50d3961a08f414d8deca7291c}\label{class_t_d_j___gliese_1_1_ship_a19964ca50d3961a08f414d8deca7291c}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Load\+\_\+content\+\_\+\+Ship@{Load\+\_\+content\+\_\+\+Ship}}
+\index{Load\+\_\+content\+\_\+\+Ship@{Load\+\_\+content\+\_\+\+Ship}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Load\+\_\+content\+\_\+\+Ship()}{Load\_content\_Ship()}}
+{\footnotesize\ttfamily void T\+D\+J\+\_\+\+Gliese.\+Ship.\+Load\+\_\+content\+\_\+\+Ship (\begin{DoxyParamCaption}\item[{Content\+Manager}]{Content }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_a30aa20d3d1fbb797eedb19deffd5da72}\label{class_t_d_j___gliese_1_1_ship_a30aa20d3d1fbb797eedb19deffd5da72}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Update\+\_\+\+Ship@{Update\+\_\+\+Ship}}
+\index{Update\+\_\+\+Ship@{Update\+\_\+\+Ship}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Update\+\_\+\+Ship()}{Update\_Ship()}}
+{\footnotesize\ttfamily void T\+D\+J\+\_\+\+Gliese.\+Ship.\+Update\+\_\+\+Ship (\begin{DoxyParamCaption}\item[{Game\+Time}]{Gametime }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_a363f5776505f9baf33ae8651547f6ff8}\label{class_t_d_j___gliese_1_1_ship_a363f5776505f9baf33ae8651547f6ff8}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Update\+\_\+\+Tier@{Update\+\_\+\+Tier}}
+\index{Update\+\_\+\+Tier@{Update\+\_\+\+Tier}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Update\+\_\+\+Tier()}{Update\_Tier()}}
+{\footnotesize\ttfamily void T\+D\+J\+\_\+\+Gliese.\+Ship.\+Update\+\_\+\+Tier (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+\subsection{Member Data Documentation}
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_a5a045b903027b805f2bf6893cce33784}\label{class_t_d_j___gliese_1_1_ship_a5a045b903027b805f2bf6893cce33784}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Avaliable\+Points@{Avaliable\+Points}}
+\index{Avaliable\+Points@{Avaliable\+Points}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Avaliable\+Points}{AvaliablePoints}}
+{\footnotesize\ttfamily int T\+D\+J\+\_\+\+Gliese.\+Ship.\+Avaliable\+Points}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_a88182145d60126a7a22abfe10232b25d}\label{class_t_d_j___gliese_1_1_ship_a88182145d60126a7a22abfe10232b25d}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Explosions\+List@{Explosions\+List}}
+\index{Explosions\+List@{Explosions\+List}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Explosions\+List}{ExplosionsList}}
+{\footnotesize\ttfamily List$<$\hyperlink{class_t_d_j___gliese_1_1_content_1_1_boom}{Boom}$>$ T\+D\+J\+\_\+\+Gliese.\+Ship.\+Explosions\+List}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_a6fd70556744e25e1743cc27f566018cd}\label{class_t_d_j___gliese_1_1_ship_a6fd70556744e25e1743cc27f566018cd}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!isbeinghit@{isbeinghit}}
+\index{isbeinghit@{isbeinghit}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{isbeinghit}{isbeinghit}}
+{\footnotesize\ttfamily bool T\+D\+J\+\_\+\+Gliese.\+Ship.\+isbeinghit}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_a944a147b9a2e0391499617014f1a79a9}\label{class_t_d_j___gliese_1_1_ship_a944a147b9a2e0391499617014f1a79a9}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Kind\+\_\+\+Of\+\_\+\+Power\+\_\+\+Up@{Kind\+\_\+\+Of\+\_\+\+Power\+\_\+\+Up}}
+\index{Kind\+\_\+\+Of\+\_\+\+Power\+\_\+\+Up@{Kind\+\_\+\+Of\+\_\+\+Power\+\_\+\+Up}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Kind\+\_\+\+Of\+\_\+\+Power\+\_\+\+Up}{Kind\_Of\_Power\_Up}}
+{\footnotesize\ttfamily int T\+D\+J\+\_\+\+Gliese.\+Ship.\+Kind\+\_\+\+Of\+\_\+\+Power\+\_\+\+Up}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_adc2a27973f237ed489ce8002b87055f4}\label{class_t_d_j___gliese_1_1_ship_adc2a27973f237ed489ce8002b87055f4}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Projectile\+\_\+\+Damage\+\_\+\+P\+TS@{Projectile\+\_\+\+Damage\+\_\+\+P\+TS}}
+\index{Projectile\+\_\+\+Damage\+\_\+\+P\+TS@{Projectile\+\_\+\+Damage\+\_\+\+P\+TS}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Projectile\+\_\+\+Damage\+\_\+\+P\+TS}{Projectile\_Damage\_PTS}}
+{\footnotesize\ttfamily int T\+D\+J\+\_\+\+Gliese.\+Ship.\+Projectile\+\_\+\+Damage\+\_\+\+P\+TS}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_a714c6a21bfad19da1f4f8ab388b0793c}\label{class_t_d_j___gliese_1_1_ship_a714c6a21bfad19da1f4f8ab388b0793c}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Projectile\+\_\+\+Delay@{Projectile\+\_\+\+Delay}}
+\index{Projectile\+\_\+\+Delay@{Projectile\+\_\+\+Delay}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Projectile\+\_\+\+Delay}{Projectile\_Delay}}
+{\footnotesize\ttfamily int T\+D\+J\+\_\+\+Gliese.\+Ship.\+Projectile\+\_\+\+Delay}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_a7c579568b281500132258c25b8dc41f6}\label{class_t_d_j___gliese_1_1_ship_a7c579568b281500132258c25b8dc41f6}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Projectile\+\_\+\+Image@{Projectile\+\_\+\+Image}}
+\index{Projectile\+\_\+\+Image@{Projectile\+\_\+\+Image}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Projectile\+\_\+\+Image}{Projectile\_Image}}
+{\footnotesize\ttfamily Texture2D T\+D\+J\+\_\+\+Gliese.\+Ship.\+Projectile\+\_\+\+Image}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_aa4dd7af04e2eba843ee65a5890a6f683}\label{class_t_d_j___gliese_1_1_ship_aa4dd7af04e2eba843ee65a5890a6f683}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Projectiles\+\_\+\+List@{Projectiles\+\_\+\+List}}
+\index{Projectiles\+\_\+\+List@{Projectiles\+\_\+\+List}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Projectiles\+\_\+\+List}{Projectiles\_List}}
+{\footnotesize\ttfamily List$<$\hyperlink{class_t_d_j___gliese_1_1_projectile}{Projectile}$>$ T\+D\+J\+\_\+\+Gliese.\+Ship.\+Projectiles\+\_\+\+List}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_a9b8a46c11a735285804f87466ca1641c}\label{class_t_d_j___gliese_1_1_ship_a9b8a46c11a735285804f87466ca1641c}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!score@{score}}
+\index{score@{score}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{score}{score}}
+{\footnotesize\ttfamily int T\+D\+J\+\_\+\+Gliese.\+Ship.\+score}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_ac94ff68060753b5a57183a414e10198c}\label{class_t_d_j___gliese_1_1_ship_ac94ff68060753b5a57183a414e10198c}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Ship\+\_\+\+Colision\+Box@{Ship\+\_\+\+Colision\+Box}}
+\index{Ship\+\_\+\+Colision\+Box@{Ship\+\_\+\+Colision\+Box}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Ship\+\_\+\+Colision\+Box}{Ship\_ColisionBox}}
+{\footnotesize\ttfamily Rectangle T\+D\+J\+\_\+\+Gliese.\+Ship.\+Ship\+\_\+\+Colision\+Box}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_a12a03cfeace42db0d257ce4f75c456f6}\label{class_t_d_j___gliese_1_1_ship_a12a03cfeace42db0d257ce4f75c456f6}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Ship\+\_\+\+Endurance\+\_\+\+P\+TS@{Ship\+\_\+\+Endurance\+\_\+\+P\+TS}}
+\index{Ship\+\_\+\+Endurance\+\_\+\+P\+TS@{Ship\+\_\+\+Endurance\+\_\+\+P\+TS}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Ship\+\_\+\+Endurance\+\_\+\+P\+TS}{Ship\_Endurance\_PTS}}
+{\footnotesize\ttfamily int T\+D\+J\+\_\+\+Gliese.\+Ship.\+Ship\+\_\+\+Endurance\+\_\+\+P\+TS}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_ab04d95577b2e9d59038beb15d4c44517}\label{class_t_d_j___gliese_1_1_ship_ab04d95577b2e9d59038beb15d4c44517}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Ship\+\_\+\+Is\+\_\+\+Destructed@{Ship\+\_\+\+Is\+\_\+\+Destructed}}
+\index{Ship\+\_\+\+Is\+\_\+\+Destructed@{Ship\+\_\+\+Is\+\_\+\+Destructed}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Ship\+\_\+\+Is\+\_\+\+Destructed}{Ship\_Is\_Destructed}}
+{\footnotesize\ttfamily bool T\+D\+J\+\_\+\+Gliese.\+Ship.\+Ship\+\_\+\+Is\+\_\+\+Destructed}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_abb4db4b5321a9cf19f9dbedc92a34113}\label{class_t_d_j___gliese_1_1_ship_abb4db4b5321a9cf19f9dbedc92a34113}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Ship\+\_\+\+Shooting\+\_\+\+Speed\+\_\+\+P\+TS@{Ship\+\_\+\+Shooting\+\_\+\+Speed\+\_\+\+P\+TS}}
+\index{Ship\+\_\+\+Shooting\+\_\+\+Speed\+\_\+\+P\+TS@{Ship\+\_\+\+Shooting\+\_\+\+Speed\+\_\+\+P\+TS}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Ship\+\_\+\+Shooting\+\_\+\+Speed\+\_\+\+P\+TS}{Ship\_Shooting\_Speed\_PTS}}
+{\footnotesize\ttfamily int T\+D\+J\+\_\+\+Gliese.\+Ship.\+Ship\+\_\+\+Shooting\+\_\+\+Speed\+\_\+\+P\+TS}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_a4dfc99b5768e2c500e2f530ce65c3a65}\label{class_t_d_j___gliese_1_1_ship_a4dfc99b5768e2c500e2f530ce65c3a65}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Ship\+\_\+\+Speed@{Ship\+\_\+\+Speed}}
+\index{Ship\+\_\+\+Speed@{Ship\+\_\+\+Speed}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Ship\+\_\+\+Speed}{Ship\_Speed}}
+{\footnotesize\ttfamily int T\+D\+J\+\_\+\+Gliese.\+Ship.\+Ship\+\_\+\+Speed}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_aed7ff40de6c54938a7589595379b1195}\label{class_t_d_j___gliese_1_1_ship_aed7ff40de6c54938a7589595379b1195}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Ship\+\_\+\+Speed\+\_\+\+P\+TS@{Ship\+\_\+\+Speed\+\_\+\+P\+TS}}
+\index{Ship\+\_\+\+Speed\+\_\+\+P\+TS@{Ship\+\_\+\+Speed\+\_\+\+P\+TS}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Ship\+\_\+\+Speed\+\_\+\+P\+TS}{Ship\_Speed\_PTS}}
+{\footnotesize\ttfamily int T\+D\+J\+\_\+\+Gliese.\+Ship.\+Ship\+\_\+\+Speed\+\_\+\+P\+TS}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_a3c547516f746218184f5752bb2126ac5}\label{class_t_d_j___gliese_1_1_ship_a3c547516f746218184f5752bb2126ac5}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Ship\+\_\+\+Tier@{Ship\+\_\+\+Tier}}
+\index{Ship\+\_\+\+Tier@{Ship\+\_\+\+Tier}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Ship\+\_\+\+Tier}{Ship\_Tier}}
+{\footnotesize\ttfamily int T\+D\+J\+\_\+\+Gliese.\+Ship.\+Ship\+\_\+\+Tier}
+
+\mbox{\Hypertarget{class_t_d_j___gliese_1_1_ship_a145313c1949b730fc835fd7325b375d9}\label{class_t_d_j___gliese_1_1_ship_a145313c1949b730fc835fd7325b375d9}} 
+\index{T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}!Ship\+\_\+\+Total\+\_\+\+H\+P\+\_\+\+P\+TS@{Ship\+\_\+\+Total\+\_\+\+H\+P\+\_\+\+P\+TS}}
+\index{Ship\+\_\+\+Total\+\_\+\+H\+P\+\_\+\+P\+TS@{Ship\+\_\+\+Total\+\_\+\+H\+P\+\_\+\+P\+TS}!T\+D\+J\+\_\+\+Gliese\+::\+Ship@{T\+D\+J\+\_\+\+Gliese\+::\+Ship}}
+\subsubsection{\texorpdfstring{Ship\+\_\+\+Total\+\_\+\+H\+P\+\_\+\+P\+TS}{Ship\_Total\_HP\_PTS}}
+{\footnotesize\ttfamily int T\+D\+J\+\_\+\+Gliese.\+Ship.\+Ship\+\_\+\+Total\+\_\+\+H\+P\+\_\+\+P\+TS}
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+T\+D\+J-\/\+Gliese/\hyperlink{_ship_8cs}{Ship.\+cs}\end{DoxyCompactItemize}

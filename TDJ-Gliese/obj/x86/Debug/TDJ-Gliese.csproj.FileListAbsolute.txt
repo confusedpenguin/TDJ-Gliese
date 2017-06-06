@@ -1,0 +1,173 @@
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Space_BackGround_Image_1.png.xnb
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\TDJ-Gliese.exe
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\TDJ-Gliese.pdb
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.dll
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.xml
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\obj\x86\Debug\TDJ-Gliese.csprojResolveAssemblyReference.cache
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\obj\x86\Debug\TDJ-Gliese.exe
+C:\Users\JRC\OneDrive\OneDrive\TDJ-Gliese\TDJ-Gliese\obj\x86\Debug\TDJ-Gliese.pdb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\obj\x86\Debug\TDJ-Gliese.exe
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\obj\x86\Debug\TDJ-Gliese.pdb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\TDJ-Gliese.exe
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\TDJ-Gliese.pdb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.dll
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.xml
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Soulbringer_-_Space_Blockbuster.mp3
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Music.spritefont
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Player_Ship_1.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Player_Ship_2.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Player_Ship_3.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Projectile.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Ketsa_falling_sky.mp3
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\MainMenuBackground.jpg
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\ArrowLeft.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\ArrowRight.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Button.jpg
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\ButtonChoose.wav
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\ButtonSwitch.wav
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\PLAY.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Health_Bar.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\StatBar.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Stats.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Upgrades.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\LVLPICK.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\LVL1.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\LVL2.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\LVL3.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Gliese.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\UpgradesMenu.jpg
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\UpgradesMenuSpinner.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\MusicPlate.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Saboteur.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Chaser.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Goliath.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Tier3_SpaceShip_Shot.wav
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Tier3_SpaceShip_Startup.wav
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Tier1_SpaceShip_Shot.wav
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Tier1_SpaceShip_Startup.wav
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Tier2_SpaceShip_Shot.wav
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Tier2_SpaceShip_Startup.wav
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Boss1.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Boss2.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Boss3.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Enemy1.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Enemy2.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Enemy3.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Enemy4.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Enemy5.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Enemy6.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\MegaBoss.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Lock.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Wrong.wav
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\ExplosionRed.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\ArrowLeft.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\ArrowRight.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Boss1.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Boss2.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Boss3.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Button.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\ButtonChoose.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\ButtonSwitch.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Chaser.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\cooltext244103639469876.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\cooltext244103659421387.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\cooltext244103690509194.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\cooltext244103708028822.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\cooltext244103720930571.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\cooltext244103750874223.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\cooltext244104293575567.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Enemy1.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Enemy2.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Enemy3.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Enemy4.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Enemy5.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Enemy6.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Explosion1.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\ExplosionRed.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Game.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Gliese.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Goliath.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Health_Bar.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Ketsa_falling_sky.wma
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Ketsa_falling_sky.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Lock.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\LVL1.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\LVL2.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\LVL3.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\LVLPICK.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\MainMenuBackground.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\MegaBoss.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Music.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\MusicPlate.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\PLAY.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Player_Ship_2.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Projectile.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Saboteur.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Soulbringer_-_Space_Blockbuster.wma
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Soulbringer_-_Space_Blockbuster.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Space_BackGround_Image_1.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Space_BackGround_Image_2.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Space_BackGround_Image_3.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\StatBar.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Stats.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Tier1_SpaceShip_Shot.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Tier1_SpaceShip_Startup.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Tier2_SpaceShip_Shot.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Tier2_SpaceShip_Startup.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Tier3_SpaceShip_Shot.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Tier3_SpaceShip_Startup.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Upgrades.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\UpgradesMenu.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\UpgradesMenuSpinner.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Wrong.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Interspace1.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Interspace2.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\interspace3.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Explosion1.wav
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Game.spritefont
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\Space_BackGround_Image_1.jpg
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\GameOver.jpg
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\GameOver.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\PowerUp.png
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\Content\PowerUp.xnb
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\obj\x86\Debug\TDJ-Gliese.csprojResolveAssemblyReference.cache
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\TDJ-Gliese.exe.manifest
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\bin\Windows\Debug\TDJ-Gliese.application
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\obj\x86\Debug\TDJ-Gliese.exe.manifest
+C:\Users\JRC\Documents\Visual Studio 2015\Projects\TDJ-Gliese\TDJ-Gliese\obj\x86\Debug\TDJ-Gliese.application

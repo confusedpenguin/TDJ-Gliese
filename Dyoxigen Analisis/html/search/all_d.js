@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['score',['score',['../class_t_d_j___gliese_1_1_ship.html#a9b8a46c11a735285804f87466ca1641c',1,'TDJ_Gliese::Ship']]],
+  ['screensize',['screensize',['../class_t_d_j___gliese_1_1_button.html#a242782e04e1ff2bbce3b123999c433e1',1,'TDJ_Gliese::Button']]],
+  ['setpositionandsize',['setPositionandsize',['../class_t_d_j___gliese_1_1_button.html#a882b31c253a94cf518f1666678a8612d',1,'TDJ_Gliese::Button']]],
+  ['ship',['Ship',['../class_t_d_j___gliese_1_1_ship.html',1,'TDJ_Gliese.Ship'],['../class_t_d_j___gliese_1_1_ship.html#ac6484a415970f8daa937d940aef48a57',1,'TDJ_Gliese.Ship.Ship()']]],
+  ['ship_2ecs',['Ship.cs',['../_ship_8cs.html',1,'']]],
+  ['ship_5fcolisionbox',['Ship_ColisionBox',['../class_t_d_j___gliese_1_1_ship.html#ac94ff68060753b5a57183a414e10198c',1,'TDJ_Gliese::Ship']]],
+  ['ship_5fendurance_5fpts',['Ship_Endurance_PTS',['../class_t_d_j___gliese_1_1_ship.html#a12a03cfeace42db0d257ce4f75c456f6',1,'TDJ_Gliese::Ship']]],
+  ['ship_5fis_5fdestructed',['Ship_Is_Destructed',['../class_t_d_j___gliese_1_1_ship.html#ab04d95577b2e9d59038beb15d4c44517',1,'TDJ_Gliese::Ship']]],
+  ['ship_5fshooting_5fspeed_5fpts',['Ship_Shooting_Speed_PTS',['../class_t_d_j___gliese_1_1_ship.html#abb4db4b5321a9cf19f9dbedc92a34113',1,'TDJ_Gliese::Ship']]],
+  ['ship_5fspeed',['Ship_Speed',['../class_t_d_j___gliese_1_1_ship.html#a4dfc99b5768e2c500e2f530ce65c3a65',1,'TDJ_Gliese::Ship']]],
+  ['ship_5fspeed_5fpts',['Ship_Speed_PTS',['../class_t_d_j___gliese_1_1_ship.html#aed7ff40de6c54938a7589595379b1195',1,'TDJ_Gliese::Ship']]],
+  ['ship_5ftier',['Ship_Tier',['../class_t_d_j___gliese_1_1_ship.html#a3c547516f746218184f5752bb2126ac5',1,'TDJ_Gliese::Ship']]],
+  ['ship_5ftotal_5fhp_5fpts',['Ship_Total_HP_PTS',['../class_t_d_j___gliese_1_1_ship.html#a145313c1949b730fc835fd7325b375d9',1,'TDJ_Gliese::Ship']]],
+  ['shootspeed',['ShootSpeed',['../class_t_d_j___gliese_1_1_projectile.html#aba7ed8680effd7857fb6ca5ea86fd769',1,'TDJ_Gliese::Projectile']]],
+  ['shoottimer',['ShootTimer',['../class_t_d_j___gliese_1_1_enemy_ship.html#a52cc56b6adf370c5ec1931ad8adbf8d0',1,'TDJ_Gliese::EnemyShip']]],
+  ['space_5fbackground',['Space_BackGround',['../class_t_d_j___gliese_1_1_space___back_ground.html',1,'TDJ_Gliese.Space_BackGround'],['../class_t_d_j___gliese_1_1_space___back_ground.html#a9a423cf297fdf4265951a0e705ff388a',1,'TDJ_Gliese.Space_BackGround.Space_BackGround()']]],
+  ['space_5fbackground_2ecs',['Space_BackGround.cs',['../_space___back_ground_8cs.html',1,'']]],
+  ['space_5fbackground_5fdrawposition',['Space_BackGround_DrawPosition',['../class_t_d_j___gliese_1_1_space___back_ground.html#a3bf48cae885cd1216a0932268bd51375',1,'TDJ_Gliese::Space_BackGround']]],
+  ['space_5fbackground_5fdrawposition2',['Space_BackGround_DrawPosition2',['../class_t_d_j___gliese_1_1_space___back_ground.html#a5a0a72790a8de2dcc38160d7f2198a44',1,'TDJ_Gliese::Space_BackGround']]],
+  ['space_5fbackground_5fmusic',['Space_BackGround_Music',['../class_t_d_j___gliese_1_1_game1.html#aeeace33dbcd3354a01167dca9e2e7528',1,'TDJ_Gliese::Game1']]],
+  ['spawntimes',['Spawntimes',['../class_t_d_j___gliese_1_1_l_v_l.html#aeeee78b5c555039174cb80c85b4b1d2d',1,'TDJ_Gliese::LVL']]]
+];

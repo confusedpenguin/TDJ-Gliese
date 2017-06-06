@@ -1,0 +1,54 @@
+Enemy Fleet 1:
+{
+Minion:
+https://opengameart.org/content/spaceship-6-0
+
+Rager:
+https://opengameart.org/content/spaceship-fighter
+
+Boss:
+https://opengameart.org/content/spaceship-medium-size
+
+}
+_______________________________________________________________________
+Enemy Fleet 2:
+{
+
+Minion:
+https://opengameart.org/content/spaceships-from-parts-part2artcom
+
+
+Rager:
+https://opengameart.org/content/warrior-2-spaceship
+CC 3.0. Attribution: dravenx
+
+Boss:
+https://opengameart.org/content/warrior-fighter-spaceship
+
+CC 3.0. Attribution: dravenx
+
+}
+_______________________________________________________________________
+Enemy fleet 3:
+{
+Minion:
+http://1.bp.blogspot.com/-0bW1MVCJEIg/Ufl5RpCzY8I/AAAAAAAAAzI/9sb4-Z-IVks/s1600/F5S1.png
+
+Rager:
+http://3.bp.blogspot.com/-NIHDa4J6bUY/Ufl5Rti9bZI/AAAAAAAAAyo/oh5NWPWIkcA/s1600/F5S2.png
+
+Boss:
+http://3.bp.blogspot.com/-cg1jtrxaZ8Y/Ufl5SmFUVaI/AAAAAAAAAzY/KBxNVcMmOB0/s1600/F5S4.png
+
+Ultimate Boss:
+http://2.bp.blogspot.com/-8fhHi4GqGIk/Vllq2C-tGEI/AAAAAAAACHg/_Qyupg969cE/s1600/aliensh.png
+
+}
+
+CC 3.0. Attribution: millionthVector
+
+
+___________________________________________________________________________
+
+
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Space_BackGround_Image_1.jpg</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Soulbringer_-_Space_Blockbuster.mp3</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Music.spritefont</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Projectile.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Player_Ship_2.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Button.jpg</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Ketsa_falling_sky.mp3</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/MainMenuBackground.jpg</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Gliese.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/LVL1.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/LVL2.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/LVL3.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/LVLPICK.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/PLAY.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Upgrades.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Stats.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/ButtonChoose.wav</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/ButtonSwitch.wav</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/ArrowRight.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/ArrowLeft.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/StatBar.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Health_Bar.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/UpgradesMenuSpinner.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/UpgradesMenu.jpg</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/MusicPlate.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Saboteur.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Chaser.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Goliath.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Tier3_SpaceShip_Shot.wav</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Tier3_SpaceShip_Startup.wav</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Tier1_SpaceShip_Shot.wav</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Tier1_SpaceShip_Startup.wav</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Tier2_SpaceShip_Shot.wav</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Tier2_SpaceShip_Startup.wav</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Boss1.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Enemy1.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Enemy2.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Boss2.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Enemy3.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Enemy4.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Boss3.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Enemy5.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Enemy6.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/MegaBoss.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Lock.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Wrong.wav</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/ExplosionRed.png</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Explosion1.wav</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Game.spritefont</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/GameOver.jpg</File>
+    <File>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/PowerUp.png</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/Tier3_SpaceShip_Startup.wav</SourceFile>
+  <SourceTime>2017-05-21T04:36:27.83786+01:00</SourceTime>
+  <DestFile>C:/Users/JRC/Documents/Visual Studio 2015/Projects/TDJ-Gliese/TDJ-Gliese/Content/bin/Windows/Tier3_SpaceShip_Startup.xnb</DestFile>
+  <DestTime>2017-05-23T02:39:40.720863+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T18:14:44+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
